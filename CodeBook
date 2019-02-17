@@ -1,8 +1,8 @@
 
-1. General information of the data used can be found here:
+###1. General information of the data used can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-2. List of Data Files:
+###2. List of Data Files:
 features.txt: Labels of the 561 features, found in X_train.txt and Y_train.txt
 
 activity_labels.txt: Labels and IDs for each of the 6 activities.
@@ -20,7 +20,7 @@ subject_test.txt: contains subject ID for the test set
 y_test.txt: activity ID for test data
 
 
-3. Data prosessiont Steps:
+###3. Data prosessiont Steps:
 a. Merges the training and the test sets to create one data set.
 b. Extracts only the measurements on the mean and standard deviation for each measurement.
 c. Uses descriptive activity names to name the activities in the data set
